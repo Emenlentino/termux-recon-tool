@@ -1,4 +1,3 @@
-
 # HoodFinder 🔎💻
 
 **HoodFinder** is a powerful Termux‑ready Bash utility designed for hackers, sysadmins, and power users who want **total control over their files** — locally and remotely.
